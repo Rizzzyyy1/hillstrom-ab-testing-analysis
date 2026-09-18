@@ -1,0 +1,12 @@
+Framework Element,Pre-specified Decision / Finding
+Experimental unit,Likely individual customer/recipient; unverified without identifier
+Control,No E-Mail
+Treatments,Mens E-Mail; Womens E-Mail
+Primary project metric,Mean spend per assigned experimental unit
+Secondary metrics,Conversion rate; visit rate
+Primary comparisons,Mens E-Mail vs No E-Mail; Womens E-Mail vs No E-Mail
+Alpha and confidence,0.05; 95%
+Multiplicity strategy,Holm for primary spend comparisons and within each secondary outcome family
+SRM result,"chi-square = 0.2025, df = 2, p = 0.9037; no evidence against assumed allocation"
+Baseline balance,Largest |SMD| = 0.0164; all observed SMDs below the 0.10 heuristic
+Major limitations,"No identifier, timestamp, documented allocation ratio, outcome window, or original pre-registration"

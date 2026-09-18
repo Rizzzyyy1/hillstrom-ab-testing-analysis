@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Source data is acquired locally; it is not redistributed by this repository.
+data/raw/Hillstrom.csv
+data/processed/Hillstrom_clean.csv
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Tool caches and local secrets
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,37 @@
+Outcome,Treatment,Segment Variable,Interaction Test,Raw P-Value,Model Status,FDR Adjusted P-Value,Interpretation
+Spend,Mens E-Mail,channel,OLS mean model HC3 robust joint Wald test,0.33024515183476294,Model fit successfully,0.5404011575477938,No interaction notable after FDR adjustment
+Spend,Mens E-Mail,zip_code,OLS mean model HC3 robust joint Wald test,0.9770127639230576,Model fit successfully,0.9841646956176898,No interaction notable after FDR adjustment
+Spend,Mens E-Mail,newbie,OLS mean model HC3 robust joint Wald test,0.1887224641455911,Model fit successfully,0.3774449282911822,No interaction notable after FDR adjustment
+Spend,Mens E-Mail,history_segment,OLS mean model HC3 robust joint Wald test,0.512026671431276,Model fit successfully,0.6734595375806307,No interaction notable after FDR adjustment
+Spend,Mens E-Mail,mens,OLS mean model HC3 robust joint Wald test,0.3203126308584344,Model fit successfully,0.5404011575477938,No interaction notable after FDR adjustment
+Spend,Mens E-Mail,womens,OLS mean model HC3 robust joint Wald test,0.5890340220775898,Model fit successfully,0.7312146480963184,No interaction notable after FDR adjustment
+Spend,Womens E-Mail,channel,OLS mean model HC3 robust joint Wald test,0.16666101749932719,Model fit successfully,0.352929213527987,No interaction notable after FDR adjustment
+Spend,Womens E-Mail,zip_code,OLS mean model HC3 robust joint Wald test,0.2148585460075561,Model fit successfully,0.40710040296168526,No interaction notable after FDR adjustment
+Spend,Womens E-Mail,newbie,OLS mean model HC3 robust joint Wald test,0.017747710469053067,Model fit successfully,0.09127393955513005,No interaction notable after FDR adjustment
+Spend,Womens E-Mail,history_segment,OLS mean model HC3 robust joint Wald test,0.04170045502721877,Model fit successfully,0.11590793927956217,No interaction notable after FDR adjustment
+Spend,Womens E-Mail,mens,OLS mean model HC3 robust joint Wald test,0.1436015302680099,Model fit successfully,0.3231034431030223,No interaction notable after FDR adjustment
+Spend,Womens E-Mail,womens,OLS mean model HC3 robust joint Wald test,0.3150905932022988,Model fit successfully,0.5404011575477938,No interaction notable after FDR adjustment
+Conversion,Mens E-Mail,channel,Logistic GLM robust joint Wald test,0.7984403621472125,Model fit successfully,0.8838760836710868,No interaction notable after FDR adjustment
+Conversion,Mens E-Mail,zip_code,Logistic GLM robust joint Wald test,0.3787798234799029,Model fit successfully,0.5681697352198544,No interaction notable after FDR adjustment
+Conversion,Mens E-Mail,newbie,Logistic GLM robust joint Wald test,0.02858697323458488,Model fit successfully,0.11208791142568532,No interaction notable after FDR adjustment
+Conversion,Mens E-Mail,history_segment,Logistic GLM robust joint Wald test,0.8102197433651629,Model fit successfully,0.8838760836710868,No interaction notable after FDR adjustment
+Conversion,Mens E-Mail,mens,Logistic GLM robust joint Wald test,0.7822959384751385,Model fit successfully,0.8838760836710868,No interaction notable after FDR adjustment
+Conversion,Mens E-Mail,womens,Logistic GLM robust joint Wald test,0.7245747460443832,Model fit successfully,0.8694896952532598,No interaction notable after FDR adjustment
+Conversion,Womens E-Mail,channel,Logistic GLM robust joint Wald test,0.4444591059346851,Model fit successfully,0.6154049159095639,No interaction notable after FDR adjustment
+Conversion,Womens E-Mail,zip_code,Logistic GLM robust joint Wald test,0.8774373014234951,Model fit successfully,0.9290512603307595,No interaction notable after FDR adjustment
+Conversion,Womens E-Mail,newbie,Logistic GLM robust joint Wald test,0.0014890980292988486,Model fit successfully,0.01072150581095171,Exploratory interaction notable after FDR adjustment
+Conversion,Womens E-Mail,history_segment,Logistic GLM robust joint Wald test,0.0372920777632108,Model fit successfully,0.11590793927956217,No interaction notable after FDR adjustment
+Conversion,Womens E-Mail,mens,Logistic GLM robust joint Wald test,0.041855644739841893,Model fit successfully,0.11590793927956217,No interaction notable after FDR adjustment
+Conversion,Womens E-Mail,womens,Logistic GLM robust joint Wald test,0.031135530951579258,Model fit successfully,0.11208791142568532,No interaction notable after FDR adjustment
+Visit,Mens E-Mail,channel,Logistic GLM robust joint Wald test,0.09999002002352496,Model fit successfully,0.25711719434620706,No interaction notable after FDR adjustment
+Visit,Mens E-Mail,zip_code,Logistic GLM robust joint Wald test,0.027216873420356807,Model fit successfully,0.11208791142568532,No interaction notable after FDR adjustment
+Visit,Mens E-Mail,newbie,Logistic GLM robust joint Wald test,0.00048245376156885375,Model fit successfully,0.004342083854119684,Exploratory interaction notable after FDR adjustment
+Visit,Mens E-Mail,history_segment,Logistic GLM robust joint Wald test,0.5238018625627128,Model fit successfully,0.6734595375806307,No interaction notable after FDR adjustment
+Visit,Mens E-Mail,mens,Logistic GLM robust joint Wald test,0.9841646956176898,Model fit successfully,0.9841646956176898,No interaction notable after FDR adjustment
+Visit,Mens E-Mail,womens,Logistic GLM robust joint Wald test,0.4277821353384279,Model fit successfully,0.6154049159095639,No interaction notable after FDR adjustment
+Visit,Womens E-Mail,channel,Logistic GLM robust joint Wald test,0.3482844148597136,Model fit successfully,0.5451408232586822,No interaction notable after FDR adjustment
+Visit,Womens E-Mail,zip_code,Logistic GLM robust joint Wald test,0.004845379036295382,Model fit successfully,0.029072274217772292,Exploratory interaction notable after FDR adjustment
+Visit,Womens E-Mail,newbie,Logistic GLM robust joint Wald test,5.678424648865731e-05,Model fit successfully,0.0006814109578638877,Exploratory interaction notable after FDR adjustment
+Visit,Womens E-Mail,history_segment,Logistic GLM robust joint Wald test,0.11776551119251069,Model fit successfully,0.28263722686202564,No interaction notable after FDR adjustment
+Visit,Womens E-Mail,mens,Logistic GLM robust joint Wald test,9.437562915720507e-15,Model fit successfully,1.6987613248296914e-13,Exploratory interaction notable after FDR adjustment
+Visit,Womens E-Mail,womens,Logistic GLM robust joint Wald test,4.6217576921506754e-15,Model fit successfully,1.6638327691742432e-13,Exploratory interaction notable after FDR adjustment
