@@ -32,3 +32,5 @@ streamlit run dashboard/app.py
 ## Public Deployment
 
 The dashboard is compatible with a standard Streamlit deployment using `dashboard/app.py` as the entry point and the repository-root `requirements.txt` for dependencies. The validated tables, figures, and report listed above must remain available in the repository. No secrets, database connection, or Streamlit configuration file is required.
+
+**Live Dashboard:** [https://hillstrom-ab-testing-analysis-cnezxrwubpb8twdcudvwrp.streamlit.app/](https://hillstrom-ab-testing-analysis-cnezxrwubpb8twdcudvwrp.streamlit.app/)
