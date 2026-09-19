@@ -1,5 +1,7 @@
 # Hillstrom Email Experiment
 
+[![Tests](https://github.com/Rizzzyyy1/hillstrom-ab-testing-analysis/actions/workflows/tests.yml/badge.svg)](https://github.com/Rizzzyyy1/hillstrom-ab-testing-analysis/actions/workflows/tests.yml)
+
 ## End-to-End A/B Testing & Experimentation Analysis
 
 A 64,000-customer randomized email experiment analyzed with Python, statistical inference, PostgreSQL-compatible SQL, experiment diagnostics, power analysis, heterogeneous treatment effects, robustness checks, automated testing, and a Streamlit dashboard.
